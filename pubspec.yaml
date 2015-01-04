@@ -1,0 +1,10 @@
+name: flurt
+author: Julien Castelain <jcastelain@gmail.com>
+description: A "Flux" implementation in Dart.
+homepage: https://github.com/julien/flurt
+version: 0.1.0
+environment:
+  sdk: ">=0.8.10+6 <2.0.0"
+dependencies:
+  unittest: "any"
+  browser: "any"
